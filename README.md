@@ -2,8 +2,8 @@
 
 ## Overview
 
-ToDo Application created in Spring Boot. Implemented the REST APIs and used JSP.
-<br/>
+ToDo Application created in Spring Boot. Implemented the REST APIs and used JSP.<br/>
+
 Contains functionality:<br/>
   1) Add new ToDo<br/>
   2) Update a ToDo<br/>
