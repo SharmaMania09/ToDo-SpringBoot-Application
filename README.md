@@ -2,7 +2,7 @@
 
 ## Overview
 
-ToDo Application created in Spring Boot. Implemented the REST APIs and used JSP.<br/>
+ToDo Application created in Spring Boot. Implemented the REST APIs and used JSP.
 <br/>
 Contains functionality:<br/>
   1) Add new ToDo<br/>
@@ -17,7 +17,7 @@ IDE - Eclipse or Intellij Idea or STS(Spring Tool Suite)
 
 Step 1: Download the repository and open it in an ide such as IntelliJ or Eclipse or STS. <br/>
 Step 2: Open the pom.xml file and download the required dependencies. <br/>
-Step 3: Download MySQL Workbech 8.0+ and connect to the server <br/>
-Step 4: Open any browser and enter URL https://localhost:8080/ to access the home page. <br/>
+Step 3: Download MySQL Workbech 8.0+ and connect to the server. <br/>
+Step 4: Open any browser and enter URL https://localhost:8080/ to access the home page.
 <br/>
-#### NOTE: Click on add todo to add a new todo and also access other functionalities
+#### NOTE: Click on add todo to add a new todo and also access other functionalities.
